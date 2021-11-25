@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Amber_50">#FFF8E1</color>
+    <color name="Amber_400">#FFCA28</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="lightGray">#eceff1</color>
+    <color name="darkGray">#808e95</color>
+    <color name="darkerGray">#545C61</color>
+</resources>

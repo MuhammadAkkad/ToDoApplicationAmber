@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="note_list_title">Notes</string>
+    <string name="take_note">Take Note</string>
+    <string name="update_note">Update Note</string>
+    <string name="no_data">Create you first note.</string>
+    <string name="image_description">note image</string>
+    <string name="edited">Edited</string>
+    <string name="note_title">Note title</string>
+    <string name="note_description">Description</string>
+    <string name="note_image_url">Image Url (optional)</string>
+    <string name="is_first_time">isFirstTime</string>
+    <string name="swipe_to_delete">Swipe left to delete.</string>
+    <string name="required_field">this field is required</string>
+    <string name="check_entered_url">check entered URL.</string>
+    <string name="save">Save</string>
+</resources>
